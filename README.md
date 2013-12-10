@@ -7,9 +7,9 @@ by Ali El-Ashram
 A basic ticketing system that allows the user to submit tickets. These tickets will then be emailed to the support team, where they can reply to the message.
 
 
-## Known Issues
+## Information
 
-There are currently no known issues.
+![Screenshot 1](app/assets/images/Screen shot 2013-12-10 at 5.09.07 PM.png)
 
 ## Authors
 

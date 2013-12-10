@@ -28,5 +28,3 @@ There are currently no known issues.
 [MIT][2]
 
 [2]: http://opensource.org/licenses/MIT
-Window size: x
-Viewport size: x
